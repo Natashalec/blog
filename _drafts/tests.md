@@ -19,7 +19,7 @@ jb_picture:
   caption: Мимино (1977) by Георгий Данелия
 ---
 
-I don't know what is the programming language you use, but my experience
+I don't know what is the programming language you use, but my experience  
 of recent coding in Java, Ruby, JavaScript, PHP, Python, C++, and Rust tells
 me that the principle, which I will try to convince you to adhere to ---
 is universal for all languages. It's about naming of test files.
